@@ -23,7 +23,7 @@ h2{
     padding: 53px 53px;
 }
 
-#user-input{
+/*#user-input{
     
     font-size: 98px;
     display: block;
@@ -32,6 +32,14 @@ h2{
     white-space: nowrap;
     overflow: hidden;
     
+}*/
+#user-input{
+    background: transparent;
+    border: none;
+    font-size: 98px;
+    margin: 0px auto;
+    text-align: center;
+    color:white;    
 }
 
 
@@ -42,6 +50,7 @@ h2{
 .result-block p {
     margin: 0;
     color: white;
+    padding: 10px;
 }
 .result-text{
     color: #D2D2D2;
