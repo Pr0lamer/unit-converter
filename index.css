@@ -17,7 +17,7 @@ h2{
 
 
 .input-block{
-    height: 207px;
+    
     background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
     color: white;
     padding: 53px 53px;
@@ -45,13 +45,16 @@ h2{
 
 .result-block{
     background-color: #1F2937;
-    height: 290px;
+    height: 270px;
+    padding: 0px 102px;
 }
-.result-block p {
+.fixed-text {
     margin: 0;
     color: white;
-    padding: 10px;
+    padding: 27px 0px 0px 0px;
 }
 .result-text{
     color: #D2D2D2;
+    font-size: 14px;
+    margin: 5px 0;
 }
